@@ -61,7 +61,7 @@ a:active {
 }
 
 .notfound h1 {
-  color: rgb(255, 0, 204);
+  color: yellow;
   border-bottom: 5px solid rgb(150, 0, 154);
 }
 
